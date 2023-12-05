@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf1634fc.css",
+    "main.js": "/static/js/main.5cebe85f.js",
+    "static/media/footer-bg.jpg": "/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/O-Logo.png": "/static/media/O-Logo.963b9edfd4d8b76bf305.png",
+    "index.html": "/index.html",
+    "main.cf1634fc.css.map": "/static/css/main.cf1634fc.css.map",
+    "main.5cebe85f.js.map": "/static/js/main.5cebe85f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf1634fc.css",
+    "static/js/main.5cebe85f.js"
+  ]
+}
